@@ -40,7 +40,7 @@ The app follows the standard Ruffier-Dickson test:
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/pregiorg/heartcheck.git
+git clone https://github.com/pregiorg/Heart_Check.git
 cd heartcheck
 ```
 
