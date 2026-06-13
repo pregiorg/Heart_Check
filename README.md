@@ -41,7 +41,7 @@ The app follows the standard Ruffier-Dickson test:
 
 ```bash
 git clone https://github.com/pregiorg/Heart_Check.git
-cd heartcheck
+cd Heart_Check
 ```
 
 2. Run the app:
